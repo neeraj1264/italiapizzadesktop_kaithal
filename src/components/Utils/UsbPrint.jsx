@@ -185,13 +185,11 @@ export default function UsbPrint({
               padding: "0 2px",
             }}
           >
-            Ladwa Indri Chownk,
+            SCO 325, SEC 20, 
             <br />
-            Near Miglani Sweet House
+           MAIN MARKET HUDA, KAITHAL
             <br />
-            Ladwa (136-132)
-            <br />
-            99922-27983 99922-27984
+            94916-71313 94916-91313
             {/* <br />
             GstNo: 06QTIPS7467A1Z1 */}
           </p>
