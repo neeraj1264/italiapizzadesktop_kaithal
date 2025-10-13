@@ -516,7 +516,7 @@ const CustomerDetail = () => {
           />
         )}
         <h1 style={{ textAlign: "center", margin: 0, fontSize: "25px" }}>
-          Australian Bite
+          Pizza Italia
         </h1>
         <p
           style={{
@@ -526,13 +526,13 @@ const CustomerDetail = () => {
             padding: "0 2px",
           }}
         >
-          Ambarsari Farm, Kurukshetra Road Pehowa, (136-128)
+          SCO 325, SEC 20, MAIN MARKET HUDA, KAITHAL
         </p>
         <p style={{ textAlign: "center", margin: 0, fontSize: "14px" }}>
-          +91 74043-39777
+          +91 94916-71313
         </p>
         <p style={{ textAlign: "center", margin: 0, fontSize: "14px" }}>
-          +91 74043-38777
+          +91 94916-91313
         </p>
         <hr />
         <h2 style={{ textAlign: "center", margin: 0, fontSize: "20px" }}>
